@@ -12,8 +12,8 @@ define("SITE_NAME", "M-IT");
 echo SITE_NAME . "<br>";
 
 // Arithmetic Operation
-echo "A = " . $a = 10 . "<br>";
-echo "B = " . $b = 5 . "<br>";
+echo "A = " . $a = 100 . "<br>";
+echo "B = " . $b = 50 . "<br>";
 
 // Addition
 echo "Addition = " . $a + $b ."<br>"; // 15

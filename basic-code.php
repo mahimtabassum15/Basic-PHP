@@ -7,3 +7,7 @@ $age = 23;
 define("SITE_NAME", "M-IT");
 echo SITE_NAME;
 ?>
+
+
+<!-- echo "Hello, World!";
+print "Welcome to PHP!"; -->
